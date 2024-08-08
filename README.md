@@ -1,2 +1,13 @@
 # CalibrationTool
-基于Rust语言的标定工具箱。
+A calibration toolkit based on the Rust language.
+
+System:
+    linux (computer)
+Language:
+    Rust
+
+
+Dependency Library:#
+# OpenCV
+# PCL
+# GLOG
