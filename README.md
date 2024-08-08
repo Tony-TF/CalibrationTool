@@ -8,6 +8,6 @@ Language:
 
 
 Dependency Library:#
-# OpenCV
-# PCL
-# GLOG
+OpenCV
+PCL
+GLOG
